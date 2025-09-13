@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&lines=Hey+👋+I'm+Yousef+Elgohary!;NLP+Engineer+%F0%9F%A4%96;AI+%26+ML+Enthusiast+%F0%9F%94%AE; Always+learning+new+things!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&lines=Hey+👋+I'm+Yousef+Elgohary!;NLP+Engineer+%F0%9F%A4%96;AI+%26+ML+Enthusiast+%F0%9F%94%AE;Always+learning+new+things!+🚀" />
 </p>
 
 ---
