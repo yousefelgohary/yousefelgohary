@@ -5,15 +5,15 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Currently working on **Chatbots, RAG Systems, and LLM Fine-Tuning**
-- 🌱 Learning **Advanced NLP, Cloud Deployment, and MLOps**
-- 💬 Ask me about **NLP, Transformers, RAG, and Python**
-- ⚡ Fun fact: *I can spend hours debugging happily 😂*
+##  About Me
+-  Currently working on **Chatbots, RAG Systems, and LLM Fine-Tuning**
+-  Learning **Advanced NLP, Cloud Deployment, and MLOps**
+-  Ask me about **NLP, Transformers, RAG, and Python**
+-  Fun fact: *I can spend hours debugging happily 😂*
 
 ---
 
-## 🚀 Tech Stack & Tools
+##  Tech Stack & Tools
 
 <p align="center">
   <!-- Programming -->
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yousefelgohary&show_icons=true&theme=tokyonight" height="165"/>
@@ -43,15 +43,15 @@
 
 ---
 
-## 🏆 Projects (Highlights)
+##  Projects (Highlights)
 
-- 🤖 **[EmpathyBot](https://github.com/yousefelgohary/empathy-bot)** — Emotionally intelligent chatbot with RAG + Empathy
-- 🏛️ **[Legal AI Assistant](https://github.com/yousefelgohary/legal-chatbot)** — Document Q&A + Knowledge Graph for legal docs
-- 📚 **[Fine-Tuned Transformers](https://github.com/yousefelgohary/fine-tune-transformers)** — Custom emotion detection model
+-  **[EmpathyBot](https://github.com/yousefelgohary/empathy-bot)** — Emotionally intelligent chatbot with RAG + Empathy
+-  **[Legal AI Assistant](https://github.com/yousefelgohary/legal-chatbot)** — Document Q&A + Knowledge Graph for legal docs
+-  **[Fine-Tuned Transformers](https://github.com/yousefelgohary/fine-tune-transformers)** — Custom emotion detection model
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/yousefelgohary" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
