@@ -9,7 +9,6 @@
 -  Currently working on **Chatbots, RAG Systems, and LLM Fine-Tuning**
 -  Learning **Advanced NLP, Cloud Deployment, and MLOps**
 -  Ask me about **NLP, Transformers, RAG, and Python**
--  Fun fact: *I can spend hours debugging happily 😂*
 
 ---
 
