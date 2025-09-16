@@ -45,7 +45,7 @@
 ##  Projects (Highlights)
 
 -  **[EmpathyBot](https://github.com/yousefelgohary/empathy-bot)** — Emotionally intelligent chatbot with RAG + Empathy
--  **[Legal AI Assistant](https://github.com/yousefelgohary/legal-chatbot)** — Document Q&A + Knowledge Graph for legal docs
+-  **[Legal AI Assistant](https://github.com/yousefelgohary/Avokat-AI)** — Document Q&A + Knowledge Graph for legal docs
 -  **[Fine-Tuned Transformers](https://github.com/yousefelgohary/fine-tune-transformers)** — Custom emotion detection model
 
 ---
