@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&lines=Hello+👋+I'm+Yousef+Elgohary!;NLP+Engineer+%F0%9F%A4%96;Building+Intelligent+AI+Solutions+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&lines=Hello+👋+I'm+Yousef+Elgohary!;Specializing+in+Conversational+AI+🚀;Building+Intelligent+Chatbots+%F0%9F%A4%96" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-I am an **NLP Engineer** focused on building intelligent and impactful AI solutions, especially interactive chatbots that improve business efficiency and automate workflows. My background in **Communications and Computer Engineering**, along with hands-on training at NTI, provided me with a solid foundation in AI and NLP. I combine advanced technical expertise with strong communication and leadership skills to solve real-world business challenges.
-
----
-
-## 💡 My Unique Value Proposition
-
-- 🤖 **Hands-on AI Expertise:** Developed advanced solutions like Avokat AI, a multilingual legal chatbot, showcasing my skills in Knowledge Graphs and Retrieval-Augmented Generation (RAG) systems.
-- 🗣️ **Effective Communication:** Skilled at simplifying complex AI concepts, enabling me to present ideas clearly and lead projects confidently.
-- ✅ **Practical Problem Solving:** Passionate about transforming business challenges into scalable, data-driven solutions using tools like Python and FastAPI.
-- 🌍 **Bilingual AI Solutions:** Experience in building NLP systems that support both Arabic and English.
+I am an **NLP Engineer** specializing in the design and development of **intelligent chatbots and conversational AI solutions**. My focus is on transforming business operations by building interactive systems that automate workflows and improve user engagement. I combine a strong technical foundation with a passion for solving real-world challenges.
 
 ---
 
-## ⚙️ Tech Stack & Tools
+##  My Unique Value Proposition
+
+-  **Conversational AI Expertise:** I have hands-on experience in building advanced conversational systems like Avokat AI, a multilingual legal chatbot, showcasing my skills in **Knowledge Graphs** and **RAG systems** for complex, accurate responses.
+-  **Effective Communication:** I'm skilled at simplifying complex AI concepts, enabling me to effectively present chatbot solutions to both technical and non-technical stakeholders.
+-  **Practical Problem Solving:** I'm passionate about identifying business challenges and transforming them into scalable, data-driven chatbot solutions using tools like **Python** and **FastAPI**.
+-  **Bilingual AI Solutions:** My experience extends to building NLP systems that support both Arabic and English, making me an ideal candidate for creating global conversational platforms.
+
+---
+
+##  Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -39,7 +39,7 @@ I am an **NLP Engineer** focused on building intelligent and impactful AI soluti
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yousefelgohary&show_icons=true&theme=tokyonight" height="165"/>
@@ -48,30 +48,30 @@ I am an **NLP Engineer** focused on building intelligent and impactful AI soluti
 
 ---
 
-## 🚀 Projects (Highlights)
+##  Projects (Highlights)
 
-- 🤖 **[Legal AI Assistant](https://github.com/yousefelgohary/Avokat-AI)** — A multilingual legal chatbot built with Knowledge Graphs and RAG to provide instant legal insights.
-- 💬 **[EmpathyBot](https://github.com/yousefelgohary/empathy-bot)** — An emotionally intelligent chatbot for customer inquiries, leveraging RAG and custom fine-tuned models.
-- 🎯 **[Fine-Tuned Transformers](https://github.com/yousefelgohary/fine-tune-transformers)** — A custom emotion detection model showcasing my ability to fine-tune transformers for specific tasks.
+-  **[Legal AI Assistant](https://github.com/yousefelgohary/Avokat-AI)** — A multilingual legal chatbot built with Knowledge Graphs and RAG to provide instant legal insights.
+-  **[EmpathyBot](https://github.com/yousefelgohary/empathy-bot)** — An emotionally intelligent chatbot for customer inquiries, leveraging RAG and custom fine-tuned models.
+-  **[Fine-Tuned Transformers](https://github.com/yousefelgohary/fine-tune-transformers)** — A custom emotion detection model showcasing my ability to fine-tune transformers for specific tasks.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yousefelgohary" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yusufaljawhari@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/yousefelgohary" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/yousefelgohary" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yusufaljawhari@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/yousefelgohary" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-✨ *"Transforming raw data into meaningful conversations with NLP & AI."* ✨
+✨ *"Transforming business challenges into scalable, data-driven chatbot solutions."* ✨
 
 ---
