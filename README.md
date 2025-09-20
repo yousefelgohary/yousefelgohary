@@ -41,7 +41,7 @@ I am a passionate **NLP Engineer** with a mission to simplify AI and deliver tan
 
 ##  Connect With Me
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your_github_username" width="100px;" alt="Yousef Elgohary" style="border-radius:50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/yousefelgohary" width="100px;" alt="Yousef Elgohary" style="border-radius:50%;"/>
   <h2 align="center">Yousef Elgohary</h2>
   <h4 align="center">NLP Engineer | Public Speaker | Mentor</h4>
   <p align="center">
