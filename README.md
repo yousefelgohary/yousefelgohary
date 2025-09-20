@@ -59,15 +59,15 @@ I am an **NLP Engineer** focused on building intelligent and impactful AI soluti
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yousefelgohary" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yusufaljawhari@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/yousefelgohary" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/yousefelgohary" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yusufaljawhari@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/yousefelgohary" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
