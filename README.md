@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&lines=++Hello+👋+I'm+Yousef+Elgohary!;+Specializing+in+Conversational+AI+🚀;+Building+Intelligent+Chatbots+%F0%9F%A4%96" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&lines=Hello+👋+I'm+Yousef+Elgohary!;+Specializing+in+Conversational+AI+🚀;+Building+Intelligent+Chatbots+%F0%9F%A4%96" />
 </p>
 
 ---
