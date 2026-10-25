@@ -1,10 +1,11 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
+<!-- Custom Brand Banner -->
 <a href="https://www.yousefelgohary.me">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Yousef+Elgohary+%E2%80%94+AI+Engineer+(NLP+%26+LLMs);Building+Agentic+AI+Workflows+%26+Advanced+RAG+Pipelines;Developing+Production-Ready+LLM+%26+Backend+Systems" alt="Yousef Elgohary - AI Engineer" />
+  <img src="./assets/banner.svg" width="100%" alt="Yousef Elgohary — AI Engineer (NLP & LLMs)" />
 </a>
 
+<br/>
 <br/>
 
 <!-- Quick Links & Social Badges -->
