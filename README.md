@@ -187,19 +187,6 @@ I share practical lessons learned from building AI projects on my [Blog](https:/
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousefelgohary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefelgohary&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="160" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousefelgohary&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
-</div>
-
----
-
 <div align="center">
 
 **Get in Touch**
