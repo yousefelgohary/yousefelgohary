@@ -1,38 +1,16 @@
 <div align="center">
 
-<h1 align="center">
-  Yousef Elgohary
-  <br/>
-  <sub><b>AI Engineer</b></sub>
-</h1>
-
 <a href="https://www.yousefelgohary.me">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=780&height=38&lines=Specializing+in+NLP%2C+LLMs%2C+Advanced+RAG+%26+Agentic+AI;Helping+Tech+Founders+Automate+Workflows+with+Agentic+AI+%26+RAG;Building+Full-Stack%2C+Production-Grade+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=50&lines=Yousef+Elgohary+%E2%80%94+AI+Engineer;Specializing+in+NLP%2C+LLMs%2C+Advanced+RAG+%26+Agentic+AI;Helping+Tech+Founders+Automate+Workflows+with+Agentic+AI+%26+RAG;Building+Full-Stack%2C+Production-Grade+AI+Systems" alt="Yousef Elgohary - AI Engineer" />
 </a>
 
-<br/>
-<br/>
-
-<!-- Quick Links & Social Badges -->
 <p align="center">
-  <a href="https://www.yousefelgohary.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-yousefelgohary.me-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.yousefelgohary.me/blog" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-Technical_Articles-0284C7?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
-  </a>
-  <a href="https://linkedin.com/in/yousefelgohary" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Yousef_Elgohary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://youtube.com/@yousefelgoharyai" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-@yousefelgoharyai-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:yousefelgohary.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://jvjsivyqrbuzjgtafgcz.supabase.co/storage/v1/object/public/portfolio-assets/profile/resume-1789264785917.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-PDF-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
-  </a>
+  <a href="https://www.yousefelgohary.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.yousefelgohary.me/blog" target="_blank"><img src="https://img.shields.io/badge/Blog-0284C7?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
+  <a href="https://linkedin.com/in/yousefelgohary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@yousefelgoharyai" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:yousefelgohary.ai@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://jvjsivyqrbuzjgtafgcz.supabase.co/storage/v1/object/public/portfolio-assets/profile/resume-1789264785917.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 </p>
 
 </div>
