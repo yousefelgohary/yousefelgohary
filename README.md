@@ -1,7 +1,9 @@
 <div align="center">
 
-<h3 align="center">Yousef Elgohary — AI Engineer</h3>
-
+<a href="https://www.yousefelgohary.me">
+  <img src="./header.svg" alt="Yousef Elgohary — AI Engineer" width="800" />
+</a>
+<br/>
 <a href="https://www.yousefelgohary.me">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&height=36&lines=Specializing+in+NLP%2C+LLMs%2C+Advanced+RAG+%26+Agentic+AI;Automating+Manual+Bottlenecks+with+Agentic+AI+%26+RAG;Building+Full-Stack%2C+Production-Grade+AI+Systems" alt="Yousef Elgohary - AI Engineer" />
 </a>
