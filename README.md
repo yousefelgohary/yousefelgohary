@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Custom Brand Banner -->
-<a href="https://www.yousefelgohary.me">
-  <img src="./assets/banner.svg" width="100%" alt="Yousef Elgohary — AI Engineer (NLP & LLMs)" />
-</a>
+# Yousef Elgohary
+### AI Engineer — NLP, LLMs & Agentic Workflows
+*Building grounded RAG pipelines, multi-step AI agents, and scalable Python backends.*
 
-<br/>
 <br/>
 
 <!-- Quick Links & Social Badges -->
